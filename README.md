@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hola, soy Auder González
 
-<!--
-**Auder20/Auder20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Junior Fullstack enfocado en desarrollo de aplicaciones web,
+integración con bases de datos y automatización de procesos.
 
-Here are some ideas to get you started:
+🎓 Ingeniero de Sistemas
+💻 Experiencia en proyectos reales académicos y empresariales
+🌎 Interesado en oportunidades remotas en desarrollo web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías
+
+- Backend: Django, Spring Boot, Node.js
+- Frontend: Angular, React, JavaScript, HTML, CSS
+- Base de Datos: SQL Server, MySQL, PostgreSQL
+- Escritorio: JavaFX
+- Otros: Integración con dispositivos biométricos, carga de datos desde Excel
+
+---
+
+## 📌 Proyectos Destacados
+
+🔹 Sistema de gestión de aportes y afiliados  
+Aplicación desarrollada para práctica empresarial que procesa información desde Excel y la organiza en base de datos.
+
+🔹 Sistema de control de asistencia con huella dactilar  
+Aplicación web integrada con hardware biométrico para registrar horarios laborales.
+
+🔹 Sistema de gestión de préstamos (JavaFX)  
+Aplicación de escritorio para administración de clientes, préstamos y pagos.
+
+---
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/auder-gonzalez-martinez-93bbb2278/
