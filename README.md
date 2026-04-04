@@ -34,4 +34,4 @@ Aplicación de escritorio para administración de clientes, préstamos y pagos.
 
 ## 📫 Contacto
 
-- LinkedIn: https://www.linkedin.com/in/auder-gonzalez-martinez-93bbb2278/
+- LinkedIn: https://www.linkedin.com/in/auder-gonzalez-martinez/
